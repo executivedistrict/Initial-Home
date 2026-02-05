@@ -1,4 +1,4 @@
-<html lang="en">
+<<imghtml lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -601,8 +601,7 @@
       <p>You built something real. But somewhere between the early momentum and now, things got heavier. The margins aren't where they should be. The decisions all land on you. And the future &mdash; whether that's growth, an exit, or just breathing room &mdash; feels unclear. That's exactly where we come in.</p>
     </div>
     <div class="hero-image">
-      <img src="images/Gemini_Generated_Image_mq9fxqmq9fxqmq9f.png" alt="Executive District - Fractional C-Suite Leadership">
-    </div>
+      <img src="Gemini_Generated_Image_mq9fxqmq9fxqmq9f.png" alt="Executive District ~ Fractional C-Suite Leadership">    </div>
     <div class="scroll-hint">Three things we hear every week</div>
   </section>
 
