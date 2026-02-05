@@ -1,6 +1,6 @@
 
 <html lang="en">
-<head><  </style>
+</style>
     /head>    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Executive District | Fractional C-Suite Leadership</title>
   <meta name="description" content="Fractional C-suite leadership for founders struggling with profit, isolation, and unclear next steps.">
