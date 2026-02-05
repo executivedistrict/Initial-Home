@@ -744,14 +744,14 @@
         <p>No contracts, no obligations, no twelve-page proposals. Just a real conversation between people who understand what it takes to build and run a company.</p>
         <div class="cta-buttons">
           <a href="mailto:hello@executivedistrict.com" class="btn-warm filled">Start the Conversation</a>
-          <a href="tel:+1" class="btn-warm ghost">Call Directly</a>
+          <a href="tel:+1 (616) 828-8711" class="btn-warm ghost">Call Directly</a>
         </div>
       </div>
       <div class="cta-right">
         <h3 class="serif">What to expect</h3>
         <p>Your first call with us will be different from any consulting pitch you've sat through.</p>
         <ul class="cta-promises">
-          <li>30&ndash;45 minutes, founder to operator</li>
+          <li>30&ndash;45 minutes, founder to executive</li>
           <li>We listen first, talk second</li>
           <li>Completely confidential &mdash; always</li>
           <li>Honest assessment, even if the answer is "you don't need us"</li>
