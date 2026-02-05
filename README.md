@@ -579,7 +579,7 @@
       .logo-primary, .logo-accent { font-size: 1.1rem; }
     }
   </style>
-</head>
+
 <body>
 
   <!-- Nav -->
